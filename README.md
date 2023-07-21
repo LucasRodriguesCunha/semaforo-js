@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img alt="Imagem do projeto" src="https://imgur.com/a/pE81yl2" width="100%">
+  <img alt="Imagem do projeto" src="https://i.imgur.com/ELfmRF3.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
